@@ -10,7 +10,7 @@ import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
 /**
- * @author BTIndustries
+ * @author fabi
  * @version 0.1 - 2019
  */
 public class GasStation extends Application {
