@@ -7,7 +7,7 @@ package app;
 import javafx.*;
 
 /**
- * @author GRVN@BTI
+ * @author fabi
  * @version 0.1 - 2019
  * @project GasStation
  */
